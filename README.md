@@ -2,7 +2,7 @@
 
 Este proyecto resuelve un problema básico de organización de tareas 
 
-## Funcionalidades -- Con usos manual por ahora
+## Funcionalidades -- Con ingreso de menu manual por ahora
 - Ver tareas pendientes
 - Agregar tareas 
 - Mostrar todo en el registro
